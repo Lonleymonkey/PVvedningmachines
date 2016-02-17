@@ -1,0 +1,16 @@
+body{
+	background: maroon; 
+	border-style: double;
+}
+h1{
+	color: white;
+	font-size: 20px;
+	border: 50px solid #808080;
+	border-style: outset
+	text-align: center;
+}
+h2{
+	color: #666666;
+	border: 30px solid white;
+	border-style: outset;
+}
